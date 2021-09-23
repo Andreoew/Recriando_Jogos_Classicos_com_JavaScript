@@ -1,6 +1,6 @@
 # Recriando_Jogos_Classicos_com_JavaScript
 # Movimentos
-  Seta pra cima para atravessar a strada.
+  Seta pra cima para atravessar a estrada.
   Seta pra baixo para voltar quando necessário.
   
 # Regras
